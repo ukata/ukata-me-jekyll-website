@@ -37,13 +37,16 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+collections:
+  portfolio:
+
 devcarpet_theme:
   hero:
     active: true
     title: Welcome in my blog!
     description: This will be my blog about photo and 3D art which I am crafting every day and night.
   social_links:
-#     twitter: jekyllrb
+    twitter: ukata_me   
     github:  ukata
     vimeo: devcarpet
 #     facebook: jekyll
